@@ -45,7 +45,7 @@ public class SeleniumTest {
     public void tearDown() {
         if (driver != null) {
             
-            //driver.quit();
+            driver.quit();
         }
     }
 

@@ -48,7 +48,7 @@ public class EdgeSeleniumTest {
     public void tearDown() {
         if (driver != null) {
             
-            //driver.quit();
+            driver.quit();
         }
     }
     
