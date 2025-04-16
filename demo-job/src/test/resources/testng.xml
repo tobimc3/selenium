@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="MarriottTestSuite">
+  <test name="MarriottTestRun">
+    <classes>
+      <class name="com.example.marriott.demo_job.MarriottTest" />
+    </classes>
+  </test>
+</suite>
