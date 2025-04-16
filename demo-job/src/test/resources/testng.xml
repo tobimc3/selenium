@@ -2,7 +2,8 @@
 <suite name="MarriottTestSuite">
   <test name="MarriottTestRun">
     <classes>
-      <class name="com.example.marriott.demo_job.MarriottTest" />
+      <class name="com.example.marriott.demo_job.EdgeSeleniumTest" />
+      <class name="com.example.marriott.demo_job.SeleniumTest" />
     </classes>
   </test>
 </suite>
